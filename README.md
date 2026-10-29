@@ -1,6 +1,6 @@
 Hi, I’m Fatma 👋
 
-AI Consultant & Business Data Analyst sitting between business and technology — I turn complex processes and fragmented data into something structured, useful, and actionable.
+AI Consultant & Business Data Analyst sitting between business and technology. I turn complex processes and fragmented data into something structured, useful, and actionable.
 
 What I work with:
 Python, SQL, Power BI, Jira, Excel
